@@ -4,12 +4,12 @@
 
 ## Mgencp.potx
 
-フォントに [Mgen＋](<http://jikasei.me/font/mgenplus/>)を使用．
+フォントに [Mgen＋](<http://jikasei.me/font/mgenplus/>)を使用
 
 ## 縞々.xltx
 
-縞々のエクセルテンプレート．
-フォントに [Migu](<http://mix-mplus-ipa.osdn.jp/migu/>)を使用
+縞々のエクセルテンプレート，
+フォントは [Migu](<http://mix-mplus-ipa.osdn.jp/migu/>)を使用
 
 ## セル選択でハイライト.xltm
 
